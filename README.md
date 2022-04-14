@@ -1,10 +1,10 @@
 ### Hi there ,I'm Kadota 👋
-I love AWS/terraform/Go/Typescript.
+⚡Interest⚡ AWS/terraform/Go/Typescript.
 
 
 [![](https://raw.githubusercontent.com/Yuichi-Kadota/Yuichi-Kadota/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  [![](https://raw.githubusercontent.com/Yuichi-Kadota/Yuichi-Kadota/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/Yuichi-Kadota/Yuichi-Kadota/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuichi-Kadota&show_icons=true&theme=dracula)
 <!--
 **Yuichi-Kadota/Yuichi-Kadota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
