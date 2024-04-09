@@ -1,5 +1,5 @@
 ### Hi there ,I'm Kadota 👋
-⚡Interest⚡ AWS/terraform/Go/Typescript.
+⚡Interest⚡ AWS/GCP/Cloudflare/terraform/Go/Typescript.
 
 
 [![](https://raw.githubusercontent.com/Yuichi-Kadota/Yuichi-Kadota/main/profile-summary-card-output/darcula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
