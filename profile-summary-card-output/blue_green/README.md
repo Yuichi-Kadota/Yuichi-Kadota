@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Yuichi-Kadota/Yuichi-Kadota/main/profile-summary-card-output/blue_green/4-productive-time.svg)
+```
+
+    
